@@ -6,6 +6,7 @@ Our resources:
 
 1. Website: https://mohaiminnaib006.wixsite.com/cosmiccompass/blog
 2. Our Demo App: https://drive.google.com/file/d/1nlLPjOnCeKq62ukMTm4XFOC-h8qOs4aj/view?usp=sharing
+3. Our Project summary: https://drive.google.com/drive/folders/1FieUNgLrbAqf-RwrVHHQcIifw9r6FsGM 
 
 Team members:
 
